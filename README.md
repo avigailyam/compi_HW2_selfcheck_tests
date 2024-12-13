@@ -1,1 +1,0 @@
-# compi_HW2_selfcheck_tests
